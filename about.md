@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Mi
-permalink: mimiblog/about/
+permalink: /about/
 image: mimi.png
 ---
 Sha-Hello Ladies!!!!
