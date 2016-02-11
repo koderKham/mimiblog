@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Mi
 permalink: mimiblog/about/
 image: mimi.png
 ---
